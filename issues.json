@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "621fa0f8dcc4632ff0c5aa6a"
+  },
+  "serviceNumber": "758AR20",
+  "customerName": "Rohit",
+  "createdOn": "12-10-2020",
+  "createdBy": "xy",
+  "modifiedOn": "11-09-2021",
+  "modifiedBy": "ki",
+  "deletedBy": "ab",
+  "deletedOn": "20-12-2021"
+},{
+  "_id": {
+    "$oid": "621fa447dcc4632ff0c5aa6b"
+  },
+  "serviceNumber": "783N89",
+  "customerName": "Amar",
+  "createdOn": "27-11-2018",
+  "createdBy": "ij",
+  "modifiedOn": "30-09-2019",
+  "modifiedBy": "hj",
+  "deletedOn": "31-12-2019",
+  "deletedBy": "fd"
+},{
+  "_id": {
+    "$oid": "621fa5d8dcc4632ff0c5aa6c"
+  },
+  "serviceNumber": "38832B2",
+  "customerName": "Shubham",
+  "createdOn": "21-01-2021",
+  "createdBy": "sgk",
+  "modifiedOn": "19-05-2021",
+  "modifiedBy": "dcv",
+  "deletedOn": "20-10-2021",
+  "deletedBy": "jkdh"
+}]
